@@ -49,3 +49,4 @@ Step by Step
 3.npm i expree, npm i nodemon etc etc 
 4.Make server using express, .env file,body psrser,port, and then make models
 5. Made Models, install mongoose for that and make models
+6. make routes/ end points
